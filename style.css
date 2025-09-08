@@ -4,13 +4,13 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.6;
-  background-color: #f9f9f9;
+  background-color: #002e02;
 }
 
 /* Header */
 header {
-  background: #333;
-  color: #fff;
+  background: #002e02;
+  color: #30bfeb;
   padding: 1rem 0;
   text-align: center;
 }
